@@ -1,0 +1,12 @@
+../manual1/control1.c:27:6:delay_ms	1
+../manual1/control1.c:37:11:Tri_Function	4
+../manual1/control1.c:76:10:ADC_AverageValue	1
+../manual1/control1.c:100:10:Update_Current_Offset	10
+../manual1/control1.c:157:10:Get_Phase_Currents	1
+../manual1/control1.c:167:10:Clarke	1
+../manual1/control1.c:177:10:Park	4
+../manual1/control1.c:189:10:Rev_Park	4
+../manual1/control1.c:212:6:CALC_SVPWM	4
+../manual1/control1.c:264:6:PID_Init	1
+../manual1/control1.c:311:9:PID_Regulator	7
+../manual1/control1.c:346:9:Qinner	1
