@@ -49,7 +49,7 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
-
+123 
 Currents   IAlphaBeta;
 Currents   Ioffset;
 Currents   adc_avg;
